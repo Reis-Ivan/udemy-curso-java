@@ -1,4 +1,4 @@
-public class Temperatura {
+public class DesafioTemperatura {
 
     public static void main(String[] args) {
         // (ºF - 32) * 5/9 = ºC
